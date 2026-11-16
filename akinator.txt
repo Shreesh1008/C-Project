@@ -1,0 +1,17 @@
+
+0|0|1|2|Is it a semi-high-speed or premium train without general unreserved coaches?
+1|0|3|4|Does it run only during the day (no sleeper berths)?
+2|0|5|6|Is it mainly a commuter or short-distance passenger train?
+3|0|7|8|Does it have automatic sliding doors and rotating executive seats?
+4|0|9|10|Is it a fully air-conditioned train with dynamic pricing?
+5|0|11|12|Does it operate primarily within a single city metro/suburban network?
+6|0|13|14|Does it have mostly 3-tier AC coaches with green/yellow livery?
+7|1|-1|-1|Vande Bharat Express
+8|1|-1|-1|Shatabdi Express
+9|1|-1|-1|Rajdhani Express
+10|1|-1|-1|Duronto Express
+11|1|-1|-1|Mumbai Local (EMU)
+12|1|-1|-1|MEMU / Intercity Express
+14|1|-1|-1|Superfast Mail/Express
+15|1|-1|-1|shatabadi
+16|1|-1|-1|Garib Rath Express
